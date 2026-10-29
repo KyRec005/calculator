@@ -8,3 +8,7 @@ Add, subtract, multiply and divide two numbers; display the result.
 Run: python3 calculator.py
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
+git add run.sh README.md
+git diff --staged
+git ls-files --stage run.sh
+git commit -m "Add repeatable calculator startup script"
