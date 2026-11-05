@@ -8,3 +8,4 @@ Add, subtract, multiply and divide two numbers; display the result.
 Run: python3 calculator.py
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
+Use the command "./check.sh"
